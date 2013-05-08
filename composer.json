@@ -1,11 +1,11 @@
 {
     "name": "opauth/asana",
-    "description": "An opauth asana strategy",
+    "description": "An opauth Asana strategy",
     "license": "mit",
     "authors": [
         {
             "name": "David Wambugu",
-            "email": "davidwambugu@gmail.com"
+            "email": "maraboomint@gmail.com"
         }
     ],
     "require": {
