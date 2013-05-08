@@ -1,0 +1,20 @@
+{
+    "name": "marabooyankee/opauth-asana",
+    "description": "An opauth asana strategy",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "David Wambugu",
+            "email": "davidwambugu@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "opauth/opauth": ">=0.4.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "."
+        }
+    }
+}
