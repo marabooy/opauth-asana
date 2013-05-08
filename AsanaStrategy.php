@@ -15,7 +15,7 @@
 /**
  * Description of AsanaStrategy 
  *
- * @author David Wambugu <marabomint@gmail.com>
+ * @author David Wambugu <maraboomint@gmail.com>
  */
 class AsanaStrategy extends OpauthStrategy {
 
