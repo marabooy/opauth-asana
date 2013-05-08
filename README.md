@@ -9,10 +9,22 @@ Opauth is a multi-provider authentication framework for PHP.
 Getting started
 ----------------
 1. Install Opauth-Asana:
+
    ```bash
    cd path_to_opauth/Strategy
    git clone https://github.com/marabooyankee/opauth-asana Asana
    ```
+
+    or using composer add the following to your composer.json 
+    ```
+       "opauth/asana": "dev-master"
+    ```
+    Then run 
+     ```bash
+        php composer.phar update
+
+     ```
+    
 
 2. Create a Asana  project at https://app.asana.com/
   
@@ -48,4 +60,3 @@ License
 ---------
 Opauth-Google is MIT Licensed  
 Copyright © 2012 David Wambugu 
-
